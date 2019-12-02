@@ -1,1 +1,3 @@
-# Design-Priciples-Thinking
+# :star: Design-Priciples-Thinking
+
+   # :musical_note: SLICE <br />
